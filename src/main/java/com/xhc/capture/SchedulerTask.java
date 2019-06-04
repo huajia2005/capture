@@ -21,6 +21,12 @@ import java.util.Date;
 public class SchedulerTask {
    // private ;//"yyyy-MM-dd:HH:mm");
     private  String path="C:\\Users\\Administrator\\Desktop";
+
+    /**
+     * 定时对桌面进行截图.
+     * @throws IOException
+     * @throws AWTException
+     */
     @Scheduled(fixedDelay = 900000)
     public void capture() throws IOException, AWTException {
         System.out.println(1);
