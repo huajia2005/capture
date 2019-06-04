@@ -1,1 +1,0 @@
-java -Djava.awt.headless=false -jar D:\Screenshot\capture-0.0.1-SNAPSHOT.jar
