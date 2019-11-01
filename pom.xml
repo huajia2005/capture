@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.xhc</groupId>
     <artifactId>capture</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>capture</name>
     <description>capture project for Spring Boot</description>
 
